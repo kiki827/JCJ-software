@@ -1,9 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\backgroundanimation.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Background.cs">
     <Files>
-      <File FileName="Assets\backgroundanimation.shader" Line="1" Column="28" />
-      <File FileName="Assets\backgroundanimation.cs" Line="4" Column="33" />
+      <File FileName="Assets\Background.cs" Line="19" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
