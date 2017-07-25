@@ -15,9 +15,22 @@ public class SceneChange : MonoBehaviour
     {
 
         //Submit、つまりEnterキーでシーンを変更
-        if (Input.GetButtonDown("Submit"))
-        {
-            Application.LoadLevel("3Dball");
-        }
+		if (Input.GetButtonDown ("Submit")) {
+			Application.LoadLevel ("3Dball");
+		} if (Input.GetKeyDown (KeyCode.K))
+			
+		{
+			Application.LoadLevel("kisojikkenD");
+		}
+		if (Input.GetKeyDown (KeyCode.G))
+
+		{
+			Application.LoadLevel("game1");
+		}
+		if (Input.GetKeyDown (KeyCode.Z))
+
+		{
+			Application.LoadLevel("01");
+		}
     }
 }
