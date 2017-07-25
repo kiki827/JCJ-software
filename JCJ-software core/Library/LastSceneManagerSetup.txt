@@ -1,5 +1,4 @@
 sceneSetups:
-- path: "C:/Users/C0116209/Documents/\u6388\u696D/\u5B9F\u9A13\u5F8C\u534A\u6226/New
-    Unity Project/Assets/\u2460.unity"
+- path: Assets/kisojikkenC.unity
   isLoaded: 1
   isActive: 1
