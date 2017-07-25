@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/kisojikkenD.unity
+- path: Assets/game1.unity
   isLoaded: 1
   isActive: 1
